@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/ConferenceDTO.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

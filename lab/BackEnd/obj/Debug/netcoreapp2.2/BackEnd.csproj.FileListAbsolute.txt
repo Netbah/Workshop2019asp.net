@@ -1,0 +1,17 @@
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.deps.json
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.runtimeconfig.json
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.runtimeconfig.dev.json
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.dll
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/BackEnd.pdb
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/ConferenceDTO.dll
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/bin/Debug/netcoreapp2.2/ConferenceDTO.pdb
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csprojAssemblyReference.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csproj.CoreCompileInputs.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorAssemblyInfo.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorAssemblyInfo.cs
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.AssemblyInfoInputs.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.AssemblyInfo.cs
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.RazorTargetAssemblyInfo.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.csproj.CopyComplete
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.dll
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/Debug/netcoreapp2.2/BackEnd.pdb

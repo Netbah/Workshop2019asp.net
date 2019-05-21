@@ -1,0 +1,9 @@
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/bin/Debug/netstandard2.0/ConferenceDTO.deps.json
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/bin/Debug/netstandard2.0/ConferenceDTO.dll
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/bin/Debug/netstandard2.0/ConferenceDTO.pdb
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.csprojAssemblyReference.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.csproj.CoreCompileInputs.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.AssemblyInfoInputs.cache
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.AssemblyInfo.cs
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.dll
+/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/Debug/netstandard2.0/ConferenceDTO.pdb
