@@ -13432,11 +13432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/BackEnd.csproj",
+      "projectUniqueName": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/BackEnd/BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/BackEnd.csproj",
+      "projectPath": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/BackEnd/BackEnd.csproj",
       "packagesPath": "/Users/sergeybakhtoyarov/.nuget/packages/",
-      "outputPath": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/BackEnd/obj/",
+      "outputPath": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/BackEnd/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -13453,8 +13453,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/ConferenceDTO.csproj": {
-              "projectPath": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/ConferenceDTO.csproj"
+            "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/ConferenceDTO/ConferenceDTO.csproj": {
+              "projectPath": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/ConferenceDTO/ConferenceDTO.csproj"
             }
           }
         }

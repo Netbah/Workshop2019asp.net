@@ -333,11 +333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/ConferenceDTO.csproj",
+      "projectUniqueName": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/ConferenceDTO/ConferenceDTO.csproj",
       "projectName": "ConferenceDTO",
-      "projectPath": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/ConferenceDTO.csproj",
+      "projectPath": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/ConferenceDTO/ConferenceDTO.csproj",
       "packagesPath": "/Users/sergeybakhtoyarov/.nuget/packages/",
-      "outputPath": "/Users/sergeybakhtoyarov/Documents/GitHub/ReadyWorkshop2019/lab/ConferenceDTO/obj/",
+      "outputPath": "/Users/sergeybakhtoyarov/Documents/GitHub/Workshop2019asp.net/lab/ConferenceDTO/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
